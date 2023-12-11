@@ -5,7 +5,7 @@ const weatherDetails = document.querySelector('.weather-details');
 const error404 = document.querySelector('.not-found');
 
 const handleSearchClick = () => {
-    const APIKey = ''; // insert OpenWeatherMap API key 
+    const APIKey = '09f54e681767ea191dce9a26cec2d157'; // insert OpenWeatherMap API key 
     const cityInput = document.querySelector('.search-box input');
     const city = cityInput.value.trim();
 
