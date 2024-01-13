@@ -1,5 +1,7 @@
 # weatherApp
 <h2>A simple weather app utilizes the OpenWeatherMap API to provide real-time weather information</h2>
+
+<a href="https://m-szczepanski.github.io/weatherApp/">Link to the app</a>
 <h3>The application was written using pure HTML, CSS, and JavaScript.<br>The weather data is retrieved using the OpenWeatherMap API</h3>
 <h4>Idle state of the application</h4>
 <img src="documentation/idle.png"><br><br>
